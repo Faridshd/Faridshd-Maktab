@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Faridshd-Maktab/static/css/main.7c2bc0d2.chunk.css",
+    "main.css": "/Faridshd-Maktab/static/css/main.5213c074.chunk.css",
     "main.js": "/Faridshd-Maktab/static/js/main.0a4092d1.chunk.js",
     "main.js.map": "/Faridshd-Maktab/static/js/main.0a4092d1.chunk.js.map",
     "runtime-main.js": "/Faridshd-Maktab/static/js/runtime-main.ec9ee612.js",
@@ -9,10 +9,10 @@
     "static/js/2.bd76bcf9.chunk.js": "/Faridshd-Maktab/static/js/2.bd76bcf9.chunk.js",
     "static/js/2.bd76bcf9.chunk.js.map": "/Faridshd-Maktab/static/js/2.bd76bcf9.chunk.js.map",
     "index.html": "/Faridshd-Maktab/index.html",
-    "precache-manifest.7bb89bb3c734138b3e51ae34b9b09d6f.js": "/Faridshd-Maktab/precache-manifest.7bb89bb3c734138b3e51ae34b9b09d6f.js",
+    "precache-manifest.46a6a7ba98e5bd5c523792134cca7996.js": "/Faridshd-Maktab/precache-manifest.46a6a7ba98e5bd5c523792134cca7996.js",
     "service-worker.js": "/Faridshd-Maktab/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Faridshd-Maktab/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.7c2bc0d2.chunk.css.map": "/Faridshd-Maktab/static/css/main.7c2bc0d2.chunk.css.map",
+    "static/css/main.5213c074.chunk.css.map": "/Faridshd-Maktab/static/css/main.5213c074.chunk.css.map",
     "static/js/2.bd76bcf9.chunk.js.LICENSE.txt": "/Faridshd-Maktab/static/js/2.bd76bcf9.chunk.js.LICENSE.txt",
     "static/media/About.jpg": "/Faridshd-Maktab/static/media/About.13321fe8.jpg",
     "static/media/HomeTitle.png": "/Faridshd-Maktab/static/media/HomeTitle.50953027.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.ec9ee612.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.bd76bcf9.chunk.js",
-    "static/css/main.7c2bc0d2.chunk.css",
+    "static/css/main.5213c074.chunk.css",
     "static/js/main.0a4092d1.chunk.js"
   ]
 }

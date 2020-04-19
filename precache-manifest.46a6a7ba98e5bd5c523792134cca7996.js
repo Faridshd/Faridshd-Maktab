@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1bc52f09c74b8ef3d5fdd820fc723eb",
+    "revision": "e4b0a77f753eaa8ab66cdd2df730a1b3",
     "url": "/Faridshd-Maktab/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Faridshd-Maktab/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "617305f2780ac319d3ba",
-    "url": "/Faridshd-Maktab/static/css/main.7c2bc0d2.chunk.css"
+    "revision": "a00138f46ac9ed933ac6",
+    "url": "/Faridshd-Maktab/static/css/main.5213c074.chunk.css"
   },
   {
     "revision": "ac6ffaf4a3d8bb5154db",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Faridshd-Maktab/static/js/2.bd76bcf9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "617305f2780ac319d3ba",
+    "revision": "a00138f46ac9ed933ac6",
     "url": "/Faridshd-Maktab/static/js/main.0a4092d1.chunk.js"
   },
   {
