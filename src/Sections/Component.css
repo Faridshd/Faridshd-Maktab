@@ -1,0 +1,19 @@
+
+.changetheme {
+    float: right;
+    border-radius: 50% !important;
+    bottom: 0;
+    z-index: 1;
+    padding: 1%;
+    /* padding-left: 0.3% !important; */
+    /* margin-left: 0.3% !important; */
+    margin: 1%;
+    cursor: pointer;
+    position: fixed;
+    background-color: white;
+}
+
+.editimg {
+    max-width: 35px;
+    max-height: 35px;
+}

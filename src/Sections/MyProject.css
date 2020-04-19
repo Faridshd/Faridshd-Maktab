@@ -1,0 +1,43 @@
+
+.ProjectSec {
+    height: 100vh;
+    background-image: url(../Images/Programming.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.Tsec {
+    float: right;
+    width: 35% !important;
+    padding: 20% 0%;
+    /* height: inherit; */
+}
+
+.Tsec h1 {
+    /* color: white; */
+    font-style: italic;
+}
+
+.ConSec {
+    width: 65% !important;
+    float: left;
+    padding: 10% 0%;
+    /* height: inherit; */
+}
+
+.ConSec ul{
+    margin: 10% 0;
+}
+
+.ConSec ul li {
+    /* color: white; */
+    font-size: 30px;
+    font: outline;
+    margin: 5% 10%;
+}
+
+.ConSec ul li:hover {
+    text-shadow: 15px 15px 15px 6px white;
+}

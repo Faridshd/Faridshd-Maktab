@@ -1,0 +1,18 @@
+
+.Arrowsec {    
+    float: right;
+    border-radius: 50% !important;
+    bottom: 0;
+    z-index: 1;
+    padding: 1%;
+    padding-left: 0.3% !important;
+    margin-left: 0.3% !important;
+    margin: 1%;
+    cursor: pointer;
+    /* position: sticky; */
+}
+
+.arrimg {
+    max-width: 50px;
+    max-height: 50px;
+}

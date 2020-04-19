@@ -1,0 +1,130 @@
+{
+    "Title" : "Hello I am Farid Shahdad",
+
+    "Greeting" : "Welcome to my Resume Project",
+    "Subtitle" : "I am a Full Stack Developer and also a Web Admin",    
+
+    "Sections" : [
+        {
+            "Title" : "About Me",
+            "Content" : "My name is Farid shahdad and I am 23 years old. I was born in Tehran. I'm studing Software Engineering in Islamic Azad University. I was a Web Administrator of Data Center Conference for 3 Years in Iranian Research Organization for Science and Technology(IROST). After that I start as a Full Stack Developer at SamaPardaz Company for 19 Months. Now I am a Web Designer at MyTech Corp."            
+        },
+
+        {
+            "Title" : "My Skills",
+            "Content" : [
+
+                {
+                    "type" : "Card",
+                    "Image" : "Images/HTML5.png",
+                    "Title" : "HTML 5"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/CSS3.png",
+                    "Title" : "CSS 3"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/Bootstrap.png",
+                    "Title" : "Bootstrap"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/JavaScript.png",
+                    "Title" : "Java Script"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/Jquery.png",
+                    "Title" : "Jquery"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/ReactJs.png",
+                    "Title" : "ReactJs"
+                },
+        
+                {
+                    "type" : "Card",
+                    "Image" : "Images/MVC.png",
+                    "Title" : "ASP.Net MVC"
+                },
+
+                {
+                    "type" : "Card",
+                    "Image" : "Images/AngularJs.png",
+                    "Title" : "AngularJS"
+                },
+
+                {
+                    "type" : "Card",
+                    "Image" : "Images/AngularJs.png",
+                    "Title" : "Angular Material7"
+                },
+
+                {
+                    "type" : "Card",
+                    "Image" : "Images/AngularJs.png",
+                    "Title" : "Angular7"
+                }
+            ]
+        },
+
+        {
+            "Title" : "How To Contact Me",
+            "Content" : [
+                {
+                    "Type" : "Instagram",
+                    "Link" : "https://www.instagram.com/farid.shd/"                                       
+                },
+
+                {
+                    "Type" : "LinkdIn",
+                    "Link" : "https://ir.linkedin.com/in/farid-shahdad-915b54174"
+                },
+
+                {
+                    "Type" : "Github",
+                    "Link" : "https://github.com/Faridshd"
+                },
+
+                {
+                    "Type" : "WhatsApp",
+                    "Link" : "https://wa.me/00989216720085"
+                }
+            ]
+        },
+
+        {
+            "Title" : "My Recent Projects",
+            "Content" : [
+
+                 {
+                     "Title" : "Holydays | Online Tour Reservation",
+                     "URL" : "https://holydays.ir/"
+                 },
+
+                 {
+                    "Title" : "CAO Airworthiness Department System",
+                    "URL" : ""
+                 },
+
+                 {
+                    "Title" : "Cosmos Kish Visa Reservation",
+                    "URL" : "http://reservation.ir/"
+                 },
+
+                 {
+                    "Title" : "Safar Card | Hotel Reservation",
+                    "URL" : "http://hoteliran.net/"
+                 }
+            ]
+        }
+    ]
+}

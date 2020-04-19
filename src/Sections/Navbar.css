@@ -1,0 +1,34 @@
+.NavSec {
+    /* background: black; */
+    position: fixed;
+    width: 100%;
+}
+
+.NavSec ul {
+    display: inline-block;
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    padding: 0.5%;
+}
+
+.NavSec ul li {
+    list-style-type: none;
+    margin: 1% 3%;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+/* .NavSec ul li a {
+    color: white;
+} */
+
+.NavSec ul li a :hover {
+    /* color: #ffbd39; */
+    text-decoration-color: #ffbd39 !important;
+}
+
+.Theme-changer :hover {
+    text-decoration-color: #ffbd39 !important;  
+}
