@@ -26,7 +26,7 @@ class Title extends Component {
           <div className="BioSec">
 
             <h1>{data.Title}</h1>
-            <h2>{data.Subtitle}</h2>
+            <h2 className ="text-center">{data.Subtitle}</h2>
             <h3>{data.Greeting}</h3>
 
             <div className="Btnsec">
